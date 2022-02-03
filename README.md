@@ -1,5 +1,5 @@
-## 网站访问日志API
+# Counter - Website Access Log API
 
-用来统计各类API的调用次数，支持查询日期、调用IP的次数。
+It is used to count the number of calls of various APIs, and supports the query date and the number of IP calls.
 
-示例：[https://api.fwder.cn/log/](https://api.fwder.cn/log/)
+Example：[https://api.fwder.cn/log/](https://api.fwder.cn/log/)
